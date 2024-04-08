@@ -8,8 +8,9 @@
       <Sidebar class="hidden lg:col-span-3 lg:block" />
 
       <!-- Main Section -->
-      <main>
+      <main class="py-5 lg:col-span-6">
         <!-- Status Card -->
+        <StatusCard />
 
         <!-- Customer List -->
 
