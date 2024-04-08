@@ -13,6 +13,7 @@
         <StatusCard />
 
         <!-- Customer List -->
+        <NewCostumers />
 
         <!-- Sales Chart -->
 
