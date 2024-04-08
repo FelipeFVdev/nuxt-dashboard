@@ -27,6 +27,7 @@
         <ProfileInfo />
 
         <!-- Reminders -->
+        <Reminders />
       </div>
     </div>
   </div>
