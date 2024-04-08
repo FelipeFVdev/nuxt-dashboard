@@ -85,6 +85,17 @@ const menu = [
       { title: "Details" },
     ],
   },
+  {
+    title: "Analytics",
+    icon: "heroicons:chart-pie-solid",
+    items: [
+      { title: "List" },
+      { title: "Create" },
+      { title: "Edit" },
+      { title: "Delete" },
+      { title: "Details" },
+    ],
+  },
 ];
 </script>
 
