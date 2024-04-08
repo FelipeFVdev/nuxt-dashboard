@@ -19,6 +19,7 @@
         <SalesChart />
 
         <!-- Recent Orders -->
+        <RecentOrders />
       </main>
 
       <div>
